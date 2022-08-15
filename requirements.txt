@@ -1,0 +1,4 @@
+cmake==3.24.0
+dataclasses==0.6
+kiwipiepy==0.13.1
+kiwipiepy-model==0.13.0
